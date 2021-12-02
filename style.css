@@ -1,14 +1,12 @@
 body {
     background-color: rgb(24, 153, 228);
 }
-
 .game {
     width: 675px;
     height: 200px;
     border-bottom: 10px solid rgb(20, 241, 12);
     margin: auto;
 }
-
 #dino {
     width: 50px;
     height: 50px;
@@ -65,9 +63,4 @@ body {
     top: 52px;
     left: 612px;
     transform: scale(-1, 1);
-};
-#texto {
-    width: 150px;
-    height: 70px;
-    margin: auto;
 };
